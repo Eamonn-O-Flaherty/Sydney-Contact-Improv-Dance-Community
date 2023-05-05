@@ -1,0 +1,14 @@
+
+.div-1 {
+    text-align: center;
+    color: aliceblue;
+    background-color: #1c1c1dd5;
+    width: 40%;
+    position: absolute;
+  right: 1%;
+    }
+
+body {
+    background-image: url('images/2.jpg');
+
+  }
