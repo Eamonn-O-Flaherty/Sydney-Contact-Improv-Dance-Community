@@ -10,5 +10,14 @@
 
 body {
     background-image: url('images/2.jpg');
+    background-attachment: fixed;
 
   }
+
+  a{
+    color: rgb(164, 196, 224);
+    }
+    
+    a.visited{
+    color: rgb(97, 102, 105);;
+    }
