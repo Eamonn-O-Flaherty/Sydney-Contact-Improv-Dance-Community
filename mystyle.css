@@ -3,21 +3,23 @@
     text-align: center;
     color: aliceblue;
     background-color: #1c1c1dd5;
-    width: 31%;
     position: absolute;
-  right: 1%;
+    right: 1%;
+    width:575px;
+    max-width:90%;
+    margin:auto;
     }
 
 body {
     background-image: url('images/2.jpg');
     background-attachment: fixed;
+   
+}
 
-  }
-
-  a{
-    color: rgb(164, 196, 224);
-    }
+a{
+  color: rgb(164, 196, 224);
+}
     
-    a.visited{
+a.visited{
     color: rgb(97, 102, 105);;
-    }
+}
